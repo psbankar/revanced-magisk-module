@@ -9,11 +9,11 @@
       },
       {
         "key": "accentColor",
-        "value": "@android:color/system_accent1_100"
+        "value": "@android:color/system_accent1_200"
       },
       {
         "key": "backgroundColor",
-        "value": "@android:color/system_accent2_600"
+        "value": "@android:color/system_accent2_900"
       }
     ]
   }
