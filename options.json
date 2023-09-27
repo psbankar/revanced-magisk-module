@@ -1,1 +1,21 @@
-[]
+        
+[
+  {
+    "patchName": "Spotify theme",
+    "options": [
+      {
+        "key": "accentPressedColor",
+        "value": "@android:color/system_accent1_400"
+      },
+      {
+        "key": "accentColor",
+        "value": "@android:color/system_accent1_100"
+      },
+      {
+        "key": "backgroundColor",
+        "value": "@android:color/system_accent2_600"
+      }
+    ]
+  }
+]
+        
