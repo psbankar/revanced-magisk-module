@@ -6,6 +6,6 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 
 [Spotify]
 enabled = true
-#apkmonk-dlurl="https://www.apkmonk.com/app/com.spotify.music"
-uptodown-dlurl = "https://spotify.en.uptodown.com/android"
+apkmonk-dlurl="https://www.apkmonk.com/app/com.spotify.music"
+#uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
