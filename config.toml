@@ -17,6 +17,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Spotify]
 enabled = true
-#apkmonk-dlurl="https://www.apkmonk.com/app/com.spotify.music"
+build-mode = "apk"
+version = "auto"
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 
